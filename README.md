@@ -4,11 +4,11 @@ Việc treo voice 24/7 trên Discord là một trong những vấn đề quan tr
 
 # Cài đặt
 
-1. Clone repository này về Replit của bạn:
+1. Link Repository 
 ```python
 https://github.com/ThanggA7/Discord-Voice
 ```
-2. Thêm repo từ [Replit](https://github.com/) vào [Replit](https://replit.com/~).
+2. Thêm repository từ [Github](https://github.com/) vào [Replit](https://replit.com/~).
 ```h
 B1: Truy cập trang web của Replit và đăng nhập vào tài khoản của bạn.
 B2: Tạo một project mới bằng cách nhấp vào nút "New repl" trên trang chủ của Replit.
@@ -28,5 +28,6 @@ B5: Nhấp vào nút "New secret" để tạo một Secret mới.
 B6: Nhập tên Secret là "TOKEN"  vào trường "Name" và Token của bạn vào trường "Value".
 B7: Bấm vào biểu tượng "Khối" (block) nằm bên trái màn hình để mở thanh công cụ.
 B8: Nhấp vào nút "Add" để lưu Secret.
-
-
+```
+# Khởi chạy
+Khi mọi thứ đã xong bạn chỉ cần bấm vào nút Run ở trên 
