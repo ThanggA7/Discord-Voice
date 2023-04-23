@@ -75,7 +75,7 @@ Running voice 24/7 on Discord is one of the important issues that many Discord b
 
 # Installation
 # Directly fork from[Replit](https://replit.com/~).
-Go to [He](https://replit.com/@Thawngs2009/pnv-treo-voice#main.py) and click on Fork.
+Go to [Here](https://replit.com/@Thawngs2009/pnv-treo-voice#main.py) and click on Fork.
 # Github
 1. Link Repository 
 ```bash
