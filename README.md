@@ -30,4 +30,21 @@ B7: Bấm vào biểu tượng "Khối" (block) nằm bên trái màn hình đ�
 B8: Nhấp vào nút "Add" để lưu Secret.
 ```
 # Khởi chạy
-Khi mọi thứ đã xong bạn chỉ cần bấm vào nút Run ở trên 
+Vì Repository của bạn là một project Python, hãy tìm tệp có tên "main.py" và nhấp vào nút "Run" để khởi động project.
+
+
+# Cách treo 24/7
+```
+Để treo một liên kết (link) trên uptimerobot và giữ cho liên kết đó hoạt động 24/7, bạn có thể làm theo các bước sau:
+Đăng nhập vào tài khoản của bạn trên trang web uptimerobot.com.
+Nhấp vào nút "Add New Monitor" để tạo một monitor mới.
+Chọn "HTTP(s)" trong danh sách các loại monitor có sẵn.
+Nhập tên của monitor vào trường "Monitor Name".
+Nhập URL của liên kết cần treo vào trường "URL".
+Chọn "Every 5 minutes" trong danh sách các tùy chọn của "Monitor Interval".
+Nhấp vào nút "Create Monitor" để hoàn thành việc tạo monitor mới.
+Bạn cũng có thể cấu hình các thông số khác như "Alert Contacts", "SSL/TLS Settings" và "Advanced Settings" nếu cần thiết.
+Monitor của bạn sẽ hiển thị trong danh sách các monitors của bạn và sẽ được tự động kiểm tra mỗi 5 phút. Nếu uptimerobot phát hiện rằng liên kết của bạn không hoạt động, nó sẽ thông báo cho bạn thông qua các kênh thông báo bạn đã cấu hình.
+Lưu ý: Bạn nên đảm bảo rằng liên kết của bạn hoạt động đúng như mong đợi để tránh nhận thông báo sai lệch từ uptimerobot
+```
+
