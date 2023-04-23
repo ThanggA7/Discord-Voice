@@ -6,7 +6,7 @@ Việc treo voice 24/7 trên Discord là một trong những vấn đề quan tr
 
 # Fork trực tiếp từ [Replit](https://replit.com/~).
 
-Vào [Đây](https://replit.com/~) và bấm vào Fork
+Vào [Đây](https://replit.com/@Thawngs2009/pnv-treo-voice) và bấm vào Fork
 
 # Github
 1. Link Repository 
