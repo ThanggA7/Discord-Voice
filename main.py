@@ -24,6 +24,6 @@ async def on_ready():
     print(f'wizz vc hoster\nLogged in as {wizz.user} ({wizz.user.id})')
     vc = discord.utils.get(wizz.get_guild(GUILD_ID).channels, id = CHANNEL_ID)
     await vc.guild.change_voice_state(channel=vc, self_mute=False, self_deaf=False)
-    print(f"Successfully joined {vc.name} ({vc.id})")
+    print(f"Successfully joined {vc.name} ({vc.id})") 
 alive.alive()
 wizz.run(wizzencrypt, bot=False)
