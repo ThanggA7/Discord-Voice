@@ -5,7 +5,7 @@ Việc treo voice 24/7 trên Discord là một trong những vấn đề quan tr
 # Cài đặt
 
 1. Link Repository 
-```python
+```bash
 https://github.com/ThanggA7/Discord-Voice
 ```
 2. Thêm repository từ [Github](https://github.com/) vào [Replit](https://replit.com/~).
