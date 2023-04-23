@@ -33,10 +33,11 @@ B8: Nhấp vào nút "Add" để lưu Secret.
 Vì Repository của bạn là một project Python, hãy tìm tệp có tên "main.py" và nhấp vào nút "Run" để khởi động project.
 
 
-# Cách treo 24/7 và lấy liên kết để treo
-1: Lấy Liên kết để treo
+# Cách lấy liên kết để treo
 Sau khi khởi chạy xong bạn tìm đến mục `WebView` để lấy đường link và ở đó sẽ có hướng dẫn cho các bạn lấy
-2: Cách treo 24/7
+
+
+# Cách treo 24/7 trên [Uptimerobot](https://uptimerobot.com/).
 ```h
 Để treo một liên kết (link) trên uptimerobot và giữ cho liên kết đó hoạt
 động 24/7, bạn có thể làm theo các bước sau:
@@ -55,4 +56,6 @@ không hoạt động, nó sẽ thông báo cho bạn thông qua các kênh thô
 Lưu ý: Bạn nên đảm bảo rằng liên kết của bạn hoạt động đúng như mong đợi để tránh nhận
 thông báo sai lệch từ uptimerobot
 ```
+# Tác giả
 
+Dự án được tạo bởi [Như Thắng](https://www.facebook.com/nhuthanggg/).
