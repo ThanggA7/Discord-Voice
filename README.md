@@ -1,10 +1,13 @@
 # Mô tả dự án
 
-Dự án này là một trang web bán hàng trực tuyến cho phép người dùng tạo tài khoản và mua các sản phẩm khác nhau từ nhiều danh mục khác nhau. Trang web được xây dựng bằng HTML, CSS và JavaScript và sử dụng cơ sở dữ liệu để lưu trữ thông tin sản phẩm và người dùng.
+Việc treo voice 24/7 trên Discord là một trong những vấn đề quan trọng mà nhiều nhà phát triển bot Discord đang phải đối mặt. Nếu bạn đang tìm cách để treo voice của bot mà không cần đến VPS, thì có một số dịch vụ miễn phí có thể giúp bạn làm điều đó.
 
 # Cài đặt
 
-1. Clone repository này về máy của bạn bằng lệnh sau:
+1. Clone repository này về Replit của bạn:
 ```python
-test 123
+https://github.com/ThanggA7/Discord-Voice
 ```
+2. Vào [Replit](https://replit.com/~).
+
+
