@@ -3,7 +3,9 @@
 Việc treo voice 24/7 trên Discord là một trong những vấn đề quan trọng mà nhiều nhà phát triển bot Discord đang phải đối mặt. Nếu bạn đang tìm cách để treo voice của bot mà không cần đến VPS, thì có một số dịch vụ miễn phí có thể giúp bạn làm điều đó.
 
 # Cài đặt
-
+#Fork trực tiếp từ [Replit](https://replit.com/~).
+Vào [Đây](https://replit.com/~) và bấm vào Fork
+#Github
 1. Link Repository 
 ```bash
 https://github.com/ThanggA7/Discord-Voice
@@ -69,7 +71,9 @@ Dự án được tạo bởi [Như Thắng](https://www.facebook.com/nhuthanggg
 Running voice 24/7 on Discord is one of the important issues that many Discord bot developers are facing. If you are looking for a way to run your bot's voice without a VPS, there are some free services that can help you do that.
 
 # Installation
-
+#Directly fork from[Replit](https://replit.com/~).
+Go to [He](https://replit.com/@Thawngs2009/pnv-treo-voice#main.py) and click on Fork.
+#Github
 1. Link Repository 
 ```bash
 https://github.com/ThanggA7/Discord-Voice
