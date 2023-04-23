@@ -9,7 +9,7 @@ Việc treo voice 24/7 trên Discord là một trong những vấn đề quan tr
 https://github.com/ThanggA7/Discord-Voice
 ```
 2. Vào [Replit](https://replit.com/~).
-```html
+```h
 B1: Truy cập trang web của Replit và đăng nhập vào tài khoản của bạn.
 B2: Tạo một project mới bằng cách nhấp vào nút "New repl" trên trang chủ của Replit.
 B3: Chọn "Import from Github" từ danh sách các tùy chọn.
