@@ -59,3 +59,70 @@ thông báo sai lệch từ uptimerobot
 # Tác giả
 
 Dự án được tạo bởi [Như Thắng](https://www.facebook.com/nhuthanggg/).
+
+
+
+# English
+
+# Project Description
+
+Running voice 24/7 on Discord is one of the important issues that many Discord bot developers are facing. If you are looking for a way to run your bot's voice without a VPS, there are some free services that can help you do that.
+
+# Installation
+
+1. Link Repository 
+```bash
+https://github.com/ThanggA7/Discord-Voice
+```
+2. Add the repository from [Github](https://github.com/) to [Replit](https://replit.com/~).
+```h
+Step 1: Go to the Replit website and sign in to your account.
+Step 2: Create a new project by clicking the "New repl" button on the Replit homepage.
+Step 3: Select "Import from Github" from the list of options.
+Step 4: Enter your repository name in the "GitHub repository URL or username/repo" field.
+Step 5: Select "Import from Github".
+Step 6: Wait for the import process to complete. When the process is complete, you will see the
+files and directories in your repository displayed on Replit.
+```
+3 Configure Token in Secrets on [Replit](https://replit.com/~).
+```h
+Step 1: Open the Replit website and sign in to your account.
+Step 2: Open the repl for which you want to configure Token.
+Step 3: Click on the "Block" icon on the left-hand side of the screen to open the tool panel.
+Step 4: Click on the "Secrets" button below the "Packages" section.
+Step 5: Click the "New secret" button to create a new Secret.
+Step 6: Enter the name "TOKEN" for the Secret in the "Name" field and your Token in the "Value" field.
+Step 7: Click on the "Block" icon on the left-hand side of the screen to open the tool panel.
+Step 8: Click the "Add" button to save the Secret.
+```
+# Running
+Since your Repository is a Python project, find the file named "main.py" and click the "Run" button to start the projec
+
+# How to get the link to hang up
+After running, you go to the WebView section to get the link and there will be instructions for you to get it.
+
+
+# How to hang up 24/7 on [Uptimerobot](https://uptimerobot.com/).
+
+
+```h
+To hang a link on uptimerobot and keep that link running 24/7, you can follow these steps:
+Login to your account on uptimerobot.com website.
+Click on "Add New Monitor" button to create a new monitor.
+Choose "HTTP(s)" from the list of available monitor types.
+Enter the name of the monitor in the "Monitor Name" field.
+Enter the URL of the link you want to hang up in the "URL" field.
+Select "Every 5 minutes" from the list of "Monitor Interval" options.
+Click the "Create Monitor" button to complete creating a new monitor.
+You can also configure other parameters such as "Alert Contacts", "SSL/TLS Settings"
+and "Advanced Settings" if necessary.
+Your monitor will be displayed in your monitor list and will be checked automatically every 5 minutes. 
+If uptimerobot detects that your link is not working, it will notify you through the notification channels you have configured.
+Note: You should ensure that your link is working as expected to avoid receiving incorrect notifications from uptimerobot.
+
+```
+# Author
+
+The project was created by [Như Thắng](https://www.facebook.com/nhuthanggg/).
+
+
